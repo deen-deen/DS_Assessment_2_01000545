@@ -1,0 +1,70 @@
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.exe
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.deps.json
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.json
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.dev.json
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.AssemblyReference.cache
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.FrmMain.resources
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.GenerateResource.cache
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfoInputs.cache
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfo.cs
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\Deenushan\Downloads\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.genruntimeconfig.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.exe
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.deps.json
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.json
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.dev.json
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.AssemblyReference.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.GenerateResource.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfoInputs.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfo.cs
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.genruntimeconfig.cache
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.FrmMain.resources
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\Users\Deenushan\Downloads\DS\EnglishDictionary (2)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CopyComplete
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.exe
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.deps.json
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.json
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.dev.json
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.dll
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.pdb
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.FrmMain.resources
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfo.cs
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CopyComplete
+C:\Users\HP\Downloads\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.genruntimeconfig.cache
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.exe
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.deps.json
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.json
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.runtimeconfig.dev.json
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.dll
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\EnglishDictionary.pdb
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.AssemblyReference.cache
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.FrmMain.resources
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.GenerateResource.cache
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfoInputs.cache
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.AssemblyInfo.cs
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CoreCompileInputs.cache
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.csproj.CopyComplete
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.dll
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.pdb
+F:\Deen ANC Notes\5 sem\data stacture\aases 3\done\New folder (13)\EnglishDictionary\EnglishDictionary\obj\Debug\netcoreapp3.1\EnglishDictionary.genruntimeconfig.cache

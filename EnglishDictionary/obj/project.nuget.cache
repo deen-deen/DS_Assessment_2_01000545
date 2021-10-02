@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4i00Y+k51gobgO6vnfg0dAZF1TCtwjAqIvwnx+bHMw9YN6irfBgA2ty8TaVjelGBr4TMy16WDrMtPqBhaRECZw==",
+  "success": true,
+  "projectFilePath": "F:\\Deen ANC Notes\\5 sem\\data stacture\\aases 3\\done\\New folder (13)\\EnglishDictionary\\EnglishDictionary\\EnglishDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deenushan\\.nuget\\packages\\aspose.cells\\21.9.0\\aspose.cells.21.9.0.nupkg.sha512",
+    "C:\\Users\\Deenushan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Deenushan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Deenushan\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Deenushan\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
